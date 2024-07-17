@@ -1,0 +1,567 @@
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.staticwebassets.runtime.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.exe
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.deps.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.runtimeconfig.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CalendarApp.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CalendarApp.WebAPI.props
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CalendarApp.WebAPI.props
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CalendarApp.WebAPI.props
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\scopedcss\bundle\CalendarApp.WebAPI.styles.css
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.CopyComplete
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\refint\CalendarApp.WebAPI.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\ref\CalendarApp.WebAPI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.staticwebassets.runtime.json
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.exe
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.deps.json
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.runtimeconfig.json
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.pdb
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.pdb
+D:\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.AssemblyReference.cache
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfoInputs.cache
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfo.cs
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.CoreCompileInputs.cache
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CalendarApp.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CalendarApp.WebAPI.props
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CalendarApp.WebAPI.props
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CalendarApp.WebAPI.props
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\scopedcss\bundle\CalendarApp.WebAPI.styles.css
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.CopyComplete
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\refint\CalendarApp.WebAPI.dll
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.genruntimeconfig.cache
+D:\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\ref\CalendarApp.WebAPI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.staticwebassets.runtime.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.exe
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.deps.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.runtimeconfig.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.AssemblyReference.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfoInputs.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfo.cs
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.CoreCompileInputs.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.sourcelink.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CalendarApp.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CalendarApp.WebAPI.props
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CalendarApp.WebAPI.props
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CalendarApp.WebAPI.props
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\scopedcss\bundle\CalendarApp.WebAPI.styles.css
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\Calendar.F3D64A02.Up2Date
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\refint\CalendarApp.WebAPI.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.genruntimeconfig.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\ref\CalendarApp.WebAPI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.staticwebassets.runtime.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.exe
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.deps.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.runtimeconfig.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.AssemblyReference.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfoInputs.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfo.cs
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.CoreCompileInputs.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.sourcelink.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CalendarApp.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CalendarApp.WebAPI.props
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CalendarApp.WebAPI.props
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CalendarApp.WebAPI.props
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\scopedcss\bundle\CalendarApp.WebAPI.styles.css
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\Calendar.F3D64A02.Up2Date
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\refint\CalendarApp.WebAPI.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.genruntimeconfig.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\ref\CalendarApp.WebAPI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.staticwebassets.runtime.json
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.exe
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.deps.json
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.runtimeconfig.json
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Common.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Services.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.AssemblyReference.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfoInputs.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.AssemblyInfo.cs
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.CoreCompileInputs.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CalendarApp.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CalendarApp.WebAPI.props
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CalendarApp.WebAPI.props
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CalendarApp.WebAPI.props
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\scopedcss\bundle\CalendarApp.WebAPI.styles.css
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.csproj.CopyComplete
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\refint\CalendarApp.WebAPI.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\CalendarApp.WebAPI.genruntimeconfig.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.WebAPI\obj\Debug\net6.0\ref\CalendarApp.WebAPI.dll

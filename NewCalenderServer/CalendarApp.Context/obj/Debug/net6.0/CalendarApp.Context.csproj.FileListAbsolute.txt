@@ -1,0 +1,87 @@
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.deps.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.runtimeconfig.json
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.CopyComplete
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\refint\CalendarApp.Context.dll
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.pdb
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\פרויקט גמר\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\ref\CalendarApp.Context.dll
+D:\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.deps.json
+D:\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.runtimeconfig.json
+D:\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.AssemblyReference.cache
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfoInputs.cache
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfo.cs
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.CoreCompileInputs.cache
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.CopyComplete
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.dll
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\refint\CalendarApp.Context.dll
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.pdb
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.genruntimeconfig.cache
+D:\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\ref\CalendarApp.Context.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.deps.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.runtimeconfig.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.AssemblyReference.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfoInputs.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfo.cs
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.CoreCompileInputs.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.sourcelink.json
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\Calendar.B8611FE5.Up2Date
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\refint\CalendarApp.Context.dll
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.pdb
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.genruntimeconfig.cache
+D:\תכנות\פרויקט גמר לוח שנה\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\ref\CalendarApp.Context.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.deps.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.runtimeconfig.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.AssemblyReference.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfoInputs.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfo.cs
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.CoreCompileInputs.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.sourcelink.json
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\Calendar.B8611FE5.Up2Date
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\refint\CalendarApp.Context.dll
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.pdb
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.genruntimeconfig.cache
+D:\תכנות\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\ref\CalendarApp.Context.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.deps.json
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.runtimeconfig.json
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Context.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\bin\Debug\net6.0\CalendarApp.Repositories.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.AssemblyReference.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfoInputs.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.AssemblyInfo.cs
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.CoreCompileInputs.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.csproj.CopyComplete
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\refint\CalendarApp.Context.dll
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.pdb
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\CalendarApp.Context.genruntimeconfig.cache
+D:\פרויקט\NewCalenderServer\CalendarApp.Context\obj\Debug\net6.0\ref\CalendarApp.Context.dll
